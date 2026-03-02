@@ -1,0 +1,15 @@
+fake-product-blockchain/
+│
+├── contracts/
+│   └── ProductVerification.sol
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│
+├── frontend/
+│   ├── index.html
+│   ├── verify.html
+│   └── script.js
+│
+└── README.md
